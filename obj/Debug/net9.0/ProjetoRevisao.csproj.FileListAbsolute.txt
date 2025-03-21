@@ -12,3 +12,4 @@ C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\refint\ProjetoRevisao.
 C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.pdb
 C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.genruntimeconfig.cache
 C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ref\ProjetoRevisao.dll
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.sourcelink.json

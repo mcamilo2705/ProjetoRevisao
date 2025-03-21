@@ -1,0 +1,14 @@
+C:\Users\FIC\source\repos\ProjetoRevisao\bin\Debug\net9.0\ProjetoRevisao.exe
+C:\Users\FIC\source\repos\ProjetoRevisao\bin\Debug\net9.0\ProjetoRevisao.deps.json
+C:\Users\FIC\source\repos\ProjetoRevisao\bin\Debug\net9.0\ProjetoRevisao.runtimeconfig.json
+C:\Users\FIC\source\repos\ProjetoRevisao\bin\Debug\net9.0\ProjetoRevisao.dll
+C:\Users\FIC\source\repos\ProjetoRevisao\bin\Debug\net9.0\ProjetoRevisao.pdb
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.AssemblyInfoInputs.cache
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.AssemblyInfo.cs
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.csproj.CoreCompileInputs.cache
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.dll
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\refint\ProjetoRevisao.dll
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.pdb
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ProjetoRevisao.genruntimeconfig.cache
+C:\Users\FIC\source\repos\ProjetoRevisao\obj\Debug\net9.0\ref\ProjetoRevisao.dll
